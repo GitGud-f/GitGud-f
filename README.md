@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I am an Artificial Intelligence & Software Engineer specializing in deep learning, computer vision, compiler construction, and distributed systems. My research focuses on edge AI, hybrid vision pipelines, and performance optimization for scientific and real-world applications. I also enjoy designing compilers and tools for programming languages and automating web workflows.
+I am an Artificial Intelligence & Software Engineer specializing in deep learning, computer vision, and distributed systems. My research focuses on edge AI, hybrid vision pipelines, and performance optimization for scientific and real-world applications. I also enjoy designing compilers and tools for programming languages and automating web workflows.
 
 ---
 
@@ -22,10 +22,10 @@ I am an Artificial Intelligence & Software Engineer specializing in deep learnin
 
 - **Languages:** Python, C++, Java, C#, JavaScript, HTML, CSS, Jupyter Notebook
 - **AI & Machine Learning:** PyTorch, Transformers, Knowledge Distillation, Computer Vision, OpenCV, YOLOv8
-- **Data Science:** Streamlit, Data Mining, Hierarchical/KMeans Clustering, SDSS Dataset Analysis
+- **Data Science:** Streamlit, Data Mining, Hierarchical/KMeans Clustering, Data Analysis
 - **Web Automation:** Selenium, NUnit, Page Object Model, QA Testing
-- **Parallel & Distributed Computing:** MPI, mpi4py, CUDA (CuPy), Java Concurrency, Producer-Consumer, Shared Memory
-- **Visualization:** D3.js, Git Data Analytics
+- **Parallel & Distributed Computing:** MPI, mpi4py, CUDA (CuPy), Java Concurrency, OpenMP
+- **Visualization:** D3.js, Git Data Analytics, Three.js, Streamlit
 
 ---
 
@@ -50,8 +50,7 @@ Hybrid computer vision pipeline for transforming document images into structured
 
 ### [MiniPascal-Compiler](https://github.com/GitGud-f/MiniPascal-Compiler)
 Compiler for a simplified Pascal language implemented in C++, supporting semantic analysis and scope management.
-- **Topics:** C++, compiler construction, symbol table
-- **Stars:** 6
+- **Topics:** Flex, Bison, C++, compiler construction, symbol table, visitor pattern
 
 ### [CuPy-matmul-optimization](https://github.com/GitGud-f/CuPy-matmul-optimization)
 Performance benchmarking for matrix multiplication using CuPy, comparing CPU baselines, library calls, and custom CUDA kernels.
