@@ -20,11 +20,13 @@ I am an Artificial Intelligence & Software Engineer specializing in deep learnin
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, C++, Java, C#, JavaScript, HTML, CSS, Jupyter Notebook
+- **Languages:** Python, C/C++, C#, Java, Jupyter Notebook, Rust, Bash, Javascript/Typescript
+- **Libraries & Frameworks**: FastAPI, Flask, ASP.NET, Spring Boot, React, Node.js
 - **AI & Machine Learning:** PyTorch, Transformers, Knowledge Distillation, Computer Vision, OpenCV, YOLOv8
 - **Data Science:** Streamlit, Data Mining, Hierarchical/KMeans Clustering, Data Analysis
 - **Web Automation:** Selenium, NUnit, Page Object Model, QA Testing
 - **Parallel & Distributed Computing:** MPI, mpi4py, CUDA (CuPy), Java Concurrency, OpenMP
+- **DevOps & Tools:** Docker, Git, GitHub Actions, VS Code, PyCharm, IntelliJ IDEA, Linux, CI/CD
 - **Visualization:** D3.js, Git Data Analytics, Three.js, Streamlit
 
 ---
