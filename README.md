@@ -30,7 +30,7 @@ I am an Artificial Intelligence & Software Engineer specializing in deep learnin
 - **Visualization:** D3.js, Git Data Analytics, Three.js, Streamlit
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GitGud-f&show_icons=true&theme=default)
@@ -38,7 +38,7 @@ I am an Artificial Intelligence & Software Engineer specializing in deep learnin
 ![Profile Views](https://komarev.com/ghpvc/?username=GitGud-f)
 
 ---
-
+-->
 ## 🚀 Featured Projects
 
 ### [Delta](https://github.com/GitGud-f/Delta)
