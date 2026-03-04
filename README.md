@@ -10,7 +10,10 @@
   <a href="https://github.com/GitGud-f?tab=repositories"><img src="https://img.shields.io/github/stars/GitGud-f?label=Stars&style=social" alt="GitHub stars"></a>
   <a href="https://komarev.com/ghpvc/?username=GitGud-f"><img src="https://komarev.com/ghpvc/?username=GitGud-f&color=green" alt="Profile views"></a>
   
-  [![committers.top badge](https://user-badge.committers.top/syria/GitGud-f.svg)](https://user-badge.committers.top/syria/GitGud-f)
+</p>
+<p align="center">
+  <a href="https://user-badge.committers.top/syria/GitGud-f"><img src="https://user-badge.committers.top/syria/GitGud-f.svg" alt="Top Committers Ranks"></a>
+  <!-- [![committers.top badge](https://user-badge.committers.top/syria/GitGud-f.svg)](https://user-badge.committers.top/syria/GitGud-f) -->
 </p>
 
 ---
