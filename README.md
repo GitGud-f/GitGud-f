@@ -11,7 +11,7 @@
   <a href="https://komarev.com/ghpvc/?username=GitGud-f"><img src="https://komarev.com/ghpvc/?username=GitGud-f&color=green" alt="Profile views"></a>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/syria/USERNAME.svg)](https://user-badge.committers.top/syria/GitGud-f)
+[![committers.top badge](https://user-badge.committers.top/syria/GitGud-f.svg)](https://user-badge.committers.top/syria/GitGud-f)
 ---
 
 ## 👨‍💻 About Me
