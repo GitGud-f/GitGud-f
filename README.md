@@ -37,10 +37,11 @@ I am an Artificial Intelligence & Software Engineer specializing in deep learnin
 
 ---
 ## 📈 GitHub Stats
+<p align="center">
+  <a href="https://github.com/GitGud-f"><img src="https://github-readme-stats.vercel.app/api?username=GitGud-f&show_icons=true&theme=tokyonight" alt="GitHub stats"></a>
+  <a href="https://github.com/GitGud-f"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitGud-f&layout=compact&theme=tokyonight" alt="Top Languages"></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GitGud-f&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitGud-f&layout=compact&theme=default)
-![Profile Views](https://komarev.com/ghpvc/?username=GitGud-f)
 
 ---
 ## 🚀 Featured Projects
