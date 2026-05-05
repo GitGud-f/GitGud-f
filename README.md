@@ -49,7 +49,6 @@ I am an Artificial Intelligence & Software Engineer specializing in deep learnin
 ### [Delta](https://github.com/GitGud-f/Delta)
 A lightweight deep learning model for monocular depth estimation using knowledge distillation, optimized for edge devices.
 - **Topics:** PyTorch, knowledge distillation, vision models
-- **Stars:** 19
 
 ### [DocParse](https://github.com/GitGud-f/DocParse)
 Hybrid computer vision pipeline for transforming document images into structured PDFs with deep learning and geometric processing.
